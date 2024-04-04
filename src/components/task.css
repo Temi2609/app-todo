@@ -1,0 +1,8 @@
+.container input{
+    width: 60%;
+    height: 3rem;
+    margin-top: 5px;
+    border-radius: 1rem;
+    padding-left:7px ;
+    font-size: 15px;
+}
